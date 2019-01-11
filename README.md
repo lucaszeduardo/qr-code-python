@@ -1,11 +1,11 @@
 # Pré Requisitos (bibliotecas)
 
-pip instalar pyqrcode
+pip install pyqrcode
 
-pip instalar pyzbar
+pip install pyzbar
 
-pip instalar pypng
+pip install pypng
 
-pip instale hashlib
+pip install hashlib
 
 Agora é só usar o programa, sem medo de dar erro :)
