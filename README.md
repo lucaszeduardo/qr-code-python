@@ -1,11 +1,8 @@
-# Pré Requisitos (bibliotecas)
+# bot-python
 
-pip install pyqrcode
+## requirements:
+    to install execute: pip3 install -r requirements.txt
 
-pip install pyzbar
-
-pip install pypng
-
-pip install hashlib
-
-Agora é só usar o programa, sem medo de dar erro :)
+## contribuitors:
+    - lucaszeduardo
+    - bernardofreitas
