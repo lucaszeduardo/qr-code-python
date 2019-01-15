@@ -1,7 +1,7 @@
 QR-Code
 =======
 
-:Author: Lucas Eduardo <http://github.com/lucaszeduardo>
+:Author: Lucas Eduardo `<http://github.com/lucaszeduardo>`
 
 Requirements:
 =============
@@ -15,5 +15,5 @@ Requirements:
 Contributors:
 =============
 
-    - Lucas Eduardo <http://github.com/lucaszeduardo>
-    - Bernardo Freitas <http://github.com/bernardofreitas>
+    - Lucas Eduardo `<http://github.com/lucaszeduardo>`
+    - Bernardo Freitas `<http://github.com/bernardofreitas>`
